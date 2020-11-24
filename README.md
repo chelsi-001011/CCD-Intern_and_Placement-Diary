@@ -26,7 +26,7 @@ To install the files to your local machine, you can simply copy the folder from
 If you would like to contribute to the project then you may fork the project
 by clicking the fork option on the top right of this page and then clone it via
 https on your local machine. In case you don't know that then you may like to
-check out the [doucumentation](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+check out the [documentation](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
 ## Built With
 * [Django](https://www.djangoproject.com/) - The Web Framework used
